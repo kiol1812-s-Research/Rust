@@ -3,19 +3,19 @@
 - Topics: 
 
 <!-- ## Data Structure
-``` cpp
+``` rust
 ``` -->
 
 ## Solution
-- runtime beats 
-- memory beats 
-``` cpp
+- runtime beats % $_{(ms)}$
+- memory beats %
+``` rust
 ```
 
 ## Improving
 <!-- ... -->
 ### source code
-- runtime beats 
-- memory beats 
-``` cpp
+- runtime beats % $_{(ms)}$
+- memory beats %
+``` rust
 ```
